@@ -585,3 +585,27 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+# 自定义
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,m.hdsky.me
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,time.nist.gov
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,tracker.hdarea.club
+DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN-SUFFIX,tracker.ptchdbits.co
+DOMAIN-SUFFIX,tracker.hdsky.me
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,tracker.m-team.io
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,hdsky.me
+DOMAIN-KEYWORD,hdchina.org
+DOMAIN-KEYWORD,chdbits.co
+DOMAIN-KEYWORD,hdarea.club
+DOMAIN-KEYWORD,windows
